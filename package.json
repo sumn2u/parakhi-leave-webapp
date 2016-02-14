@@ -1,0 +1,27 @@
+{
+  "name": "parakhi-leave-webapp",
+  "version": "1.0.0",
+  "description": "this is backend for parakhi leave web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumn2u/parakhi-leave-webapp.git"
+  },
+  "keywords": [
+    "parakhi",
+    "leave",
+    "application"
+  ],
+  "author": "suman kunwar",
+  "license": "ISC",
+  "dependencies": {
+   "express": "~4.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/sumn2u/parakhi-leave-webapp/issues"
+  },
+  "homepage": "https://github.com/sumn2u/parakhi-leave-webapp#readme"
+}
